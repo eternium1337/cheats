@@ -2,7 +2,7 @@ all my cheats packed by UPX, ignore anti-virus warning
 
 dota2:
 Eternium Hacks external cheat for Dota 2 (Patch 7.38c)!
-Functions:
+Functions: 
 Weather settings
 River settings
 Fog settings

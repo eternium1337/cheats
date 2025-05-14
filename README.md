@@ -1,4 +1,4 @@
-all my cheats packed by UPX, ignore anti-virus warning<br />
+ignore anti-virus warning<br />
 
 dota2:<br />
 Eternium Hacks external cheat for Dota 2 (Patch 7.38c)!<br />
